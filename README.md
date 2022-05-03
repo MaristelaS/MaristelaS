@@ -23,4 +23,4 @@
   <img align="center" alt="Mari-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
-  ![Snake animation](https://github.com/maristelas/maristelas/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/MaristelaS/MaristelaS/blob/output/github-contribution-grid-snake.svg)
