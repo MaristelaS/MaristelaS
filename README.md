@@ -3,7 +3,7 @@
 - :brazil: I’m from Brazil
 - :earth_africa: I've been living in Dubai for the past 10 years
 - :computer: I’m currently studying Full Stack Web Development at Trybe School
-- :airplane: I love travelling the World and exploring different places
+- :airplane: I love travelling, exploring different places, and learning new things
 
 
 <div align="center">
