@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Maristela
 
 - :brazil: I’m from Brazil
-- :earth_africa: I've been living in Dubai for 10 years
+- :camel: I've been living in Dubai for 10 years
 - :computer: I’m currently studying Full Stack Web Development at Trybe School
 - :airplane: I love exploring different places and I have a passion for learning different things
 
